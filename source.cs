@@ -1,13 +1,12 @@
 /* 
 UAC Bypass using CMSTP.exe microsoft binary
-
 Based on previous work from Oddvar Moe
 https://oddvar.moe/2017/08/15/research-on-cmstp-exe/
-
 And this PowerShell script of Tyler Applebaum
 https://gist.githubusercontent.com/tylerapplebaum/ae8cb38ed8314518d95b2e32a6f0d3f1/raw/3127ba7453a6f6d294cd422386cae1a5a2791d71/UACBypassCMSTP.ps1
 
 Code author: Andre Marques (@_zc00l)
+Original post: https://0x00-0x00.github.io/research/2018/10/31/How-to-bypass-UAC-in-newer-Windows-versions.html
 */
 using System;
 using System.Text;
